@@ -13,6 +13,13 @@ The main goal of this repo is to build a deep intuitive understanding of how the
 - Stochastic Gradient Descent (SGD)
 - Mini-Batch Gradient Descent
 
+### Linear Regression
+- Simple Linear Regression
+- Multiple Linear Regression
+- Polynomial Linear Regression
+- Accuracy / Evaluation Metrics
+
+
 Each implementation is written step-by-step in Jupyter Notebooks for learning purposes.
 
 ---
